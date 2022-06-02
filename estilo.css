@@ -34,6 +34,7 @@ img {
 .contenido {
 	display: flex;
 	margin: 30px;
+	text-align: justify;
 }
 .ubicacion {
 	width: 55%;
